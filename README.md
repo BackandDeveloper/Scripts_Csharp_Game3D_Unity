@@ -65,4 +65,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## 📲| Contato
-Para dúvidas ou sugestões, entre em contato através do email: henrique.pedro62@aluno.ifce.edu.br.
+Para dúvidas ou sugestões, entre em contato: 
+
+E-mail: henrique.pedro62@aluno.ifce.edu.br.
