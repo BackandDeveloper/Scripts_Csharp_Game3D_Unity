@@ -1,4 +1,4 @@
-## Scripts C# para Criação de Games 3D usando Unity
+##  🕹️| Scripts C# para Criação de Games 3D usando Unity 
 
 ## Sobre
 Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bastante na criação de games 3D. Usando as tecnologias da Unity e C#, este repositório contém scripts básicos em C# para o desenvolvimento de um game 3D.
