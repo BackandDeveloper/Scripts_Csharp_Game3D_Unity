@@ -50,13 +50,13 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 
 ## 📝| Como Usar
 
-  1️⃣ -Clone o Repositório: Clone este repositório para sua máquina local.
+  1️⃣ Clone o Repositório: Clone este repositório para sua máquina local.
 
-  2️⃣-Importe para Unity: Importe os scripts para o seu projeto Unity.
+  2️⃣ Importe para Unity: Importe os scripts para o seu projeto Unity.
 
-  3️⃣-Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
+  3️⃣ Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
 
-  4️⃣-Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
+  4️⃣ Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
 
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
