@@ -1,4 +1,4 @@
-# Scripts C# para Criação de Games 3D usando Unity
+## Scripts C# para Criação de Games 3D usando Unity
 
 ## Sobre
 Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bastante na criação de games 3D. Usando as tecnologias da Unity e C#, este repositório contém scripts básicos em C# para o desenvolvimento de um game 3D.
@@ -13,53 +13,56 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 ## Scripts
 
 ### PlayerMovement.cs
+
  ```csharp
 
-// Código do script PlayerMovement.cs
+ Código do script PlayerMovement.cs
 
  ```
 ### PlayerAttack.cs
 
 ```csharp
 
-// Código do script PlayerAttack.cs
-MovimentoInimigo.cs
+  PlayerAttack.cs
 
  ```
 ### Código do script MovimentoInimigo.cs
 
  ``` csharp
 
-AtaqueInimigo.cs
+  MovimentoInimigo.cs
 
  ```
  ### Código do script AtaqueInimigo.cs
+ 
  ```csharp
- ### Código do script AtaqueInimigo.cs
-GameManager.cs
+
+   AtaqueInimigo.cs
 
  ```
  ### Código do script Game Manager
  
  ```csharp
 
-// Código do script GameManager.cs
+   GameManager.cs
+
   ```
 
-Como Usar
-Clone o Repositório: Clone este repositório para sua máquina local.
+## Como Usar
 
-Importe para Unity: Importe os scripts para o seu projeto Unity.
+I-Clone o Repositório: Clone este repositório para sua máquina local.
 
-Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
+II-Importe para Unity: Importe os scripts para o seu projeto Unity.
 
-Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
+III-Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
 
-Contribuições
+IV-Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
+
+## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato
+## Contato
 Para dúvidas ou sugestões, entre em contato através do email: seuemail@exemplo.com.
