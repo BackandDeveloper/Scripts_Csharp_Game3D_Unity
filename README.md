@@ -26,19 +26,21 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 MovimentoInimigo.cs
 
  ```
+### Código do script MovimentoInimigo.cs
 
  ``` csharp
 
-// Código do script MovimentoInimigo.cs
 AtaqueInimigo.cs
 
  ```
+ ### Código do script AtaqueInimigo.cs
  ```csharp
-
-// Código do script AtaqueInimigo.cs
+ ### Código do script AtaqueInimigo.cs
 GameManager.cs
 
  ```
+ ### Código do script Game Manager
+ 
  ```csharp
 
 // Código do script GameManager.cs
