@@ -1,9 +1,9 @@
-##  🕹️| Scripts C# para Criação de Games 3D usando Unity 
+##  🕹️| Scripts C# para Criação de Games 3D usando Unity 💻🎮💡
 
-## Sobre
+##  📖| Sobre
 Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bastante na criação de games 3D. Usando as tecnologias da Unity e C#, este repositório contém scripts básicos em C# para o desenvolvimento de um game 3D.
 
-## Estrutura do Projeto
+##  🗂️| Estrutura do Projeto
 - **PlayerMovement.cs**: Script para controlar o movimento do jogador.
 - **PlayerAttack.cs**: Script para controlar o ataque do jogador.
 - **MovimentoInimigo.cs**: Script para controlar o movimento do inimigo.
@@ -48,21 +48,21 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 
   ```
 
-## Como Usar
+## 📝| Como Usar
 
-I-Clone o Repositório: Clone este repositório para sua máquina local.
+  1️⃣ -Clone o Repositório: Clone este repositório para sua máquina local.
 
-II-Importe para Unity: Importe os scripts para o seu projeto Unity.
+  2️⃣-Importe para Unity: Importe os scripts para o seu projeto Unity.
 
-III-Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
+  3️⃣-Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
 
-IV-Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
+  4️⃣-Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
 
-## Contribuições
+## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
+## ✅| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## Contato
+## 📲| Contato
 Para dúvidas ou sugestões, entre em contato através do email: seuemail@exemplo.com.
