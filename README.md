@@ -67,4 +67,4 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## 📲| Contato
 Para dúvidas ou sugestões, entre em contato: 
 
-## 📨| E-mail: henrique.pedro62@aluno.ifce.edu.br.
+   📨| E-mail: henrique.pedro62@aluno.ifce.edu.br.
