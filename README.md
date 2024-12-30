@@ -45,3 +45,21 @@ GameManager.cs
 
 // Código do script GameManager.cs
   ```
+
+Como Usar
+Clone o Repositório: Clone este repositório para sua máquina local.
+
+Importe para Unity: Importe os scripts para o seu projeto Unity.
+
+Adicione aos GameObjects: Adicione os scripts aos GameObjects correspondentes na sua cena.
+
+Configure os Parâmetros: Configure os parâmetros dos scripts no Inspector da Unity conforme necessário.
+
+Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+Contato
+Para dúvidas ou sugestões, entre em contato através do email: seuemail@exemplo.com.
