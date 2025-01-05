@@ -55,7 +55,7 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 ## 🤖| Movimento do inimigo 
 <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/7945dbde-edb1-4274-9f88-594119624be0" />
 
-## | Ataque inimgo
+## 🔫| Ataque inimgo
  <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/8b6c8700-e152-4621-8ac7-6ae39cbbb8da" />
 
 ## 📝| Como Usar
