@@ -49,7 +49,7 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
   ```
 ## 🖥️| Demostração dos scripts acima no Game 3D na Unity. 
  
-## | Controle do Player
+## 🕹️| Controle do Player
  <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/ab75b94a-12f2-4c94-899a-64d010c3b3d4" />
 
 ## | Movimento do inimigo 
