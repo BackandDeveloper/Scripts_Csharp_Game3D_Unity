@@ -1,4 +1,4 @@
-##  🕹️| Scripts C# para Criação de Games 3D usando Unity 💻🎮💡
+##  🎮| Scripts C# para Criação de Games 3D usando Unity 💻💡
 
 ##  📖| Sobre
 Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bastante na criação de games 3D. Usando as tecnologias da Unity e C#, este repositório contém scripts básicos em C# para o desenvolvimento de um game 3D.
@@ -52,7 +52,7 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 ## 🕹️| Controle do Player
  <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/ab75b94a-12f2-4c94-899a-64d010c3b3d4" />
 
-## | Movimento do inimigo 
+## 🤖| Movimento do inimigo 
 <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/7945dbde-edb1-4274-9f88-594119624be0" />
 
 ## | Ataque inimgo
