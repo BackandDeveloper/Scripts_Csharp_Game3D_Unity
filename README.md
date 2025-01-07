@@ -56,7 +56,7 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
 <img width="700" alt="Imagem que mostra o movimento inimigo no Game" src="https://github.com/user-attachments/assets/7945dbde-edb1-4274-9f88-594119624be0" />
 
 ## 🔫| Ataque inimgo
- <img width="700" alt="Imagem que mostra ataque inim" src="https://github.com/user-attachments/assets/8b6c8700-e152-4621-8ac7-6ae39cbbb8da" />
+ <img width="700" alt="Imagem que mostra ataque inimig" src="https://github.com/user-attachments/assets/8b6c8700-e152-4621-8ac7-6ae39cbbb8da" />
 
 ## 📝| Como Usar
 
