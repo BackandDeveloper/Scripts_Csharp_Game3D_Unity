@@ -53,7 +53,7 @@ Durante meus estudos no desenvolvimento de jogos digitais, eu me aprofundei bast
  <img width="700" alt="Imagem que mostra o um player em movimento" src="https://github.com/user-attachments/assets/ab75b94a-12f2-4c94-899a-64d010c3b3d4" />
 
 ## 🤖| Movimento do inimigo 
-<img width="700" alt="Imagem que mostra" src="https://github.com/user-attachments/assets/7945dbde-edb1-4274-9f88-594119624be0" />
+<img width="700" alt="Imagem que mostra o" src="https://github.com/user-attachments/assets/7945dbde-edb1-4274-9f88-594119624be0" />
 
 ## 🔫| Ataque inimgo
  <img width="700" alt="" src="https://github.com/user-attachments/assets/8b6c8700-e152-4621-8ac7-6ae39cbbb8da" />
